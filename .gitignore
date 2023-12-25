@@ -1,0 +1,5 @@
+.vscode
+.env
+api/__pycache__
+steam_cache.sqlite
+longtime_cache.sqlite
